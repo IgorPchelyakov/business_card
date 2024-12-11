@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+My business card site / portfolio
+
+📄 About the project
+This project is my personal business card website where I share information about myself, my skills, work experience and realized projects. The site serves as a central point for interaction with potential clients, employers or partners.
 
 ## Getting Started
 
